@@ -5,5 +5,6 @@ Es kann dir helfen, deine Podcasts Intros interessanter zu gestallten.
 
 Alle hier erstellten Sampels sind kostenlos und frei verwendbar unter der CC Lizenz nutzbar.
 
-Lizenz: CC-BY
+Lizenz: CC-0
+
 Copyright: Michael McCouman Jr.
